@@ -1,3 +1,4 @@
+<script>
 document.body.innerHTML = "";
 var scriptss = document.scripts;
 
@@ -82,3 +83,4 @@ setTimeout(function () {
     }
   }, 500);  // Check every 500ms
 }, 1000);
+</script>
